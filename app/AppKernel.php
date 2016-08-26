@@ -27,6 +27,7 @@ class AppKernel extends Kernel
             new Pix\SortableBehaviorBundle\PixSortableBehaviorBundle(),
             new Liip\ImagineBundle\LiipImagineBundle(),
             new Ai\AdminBundle\AiAdminBundle(),
+            new Oneup\UploaderBundle\OneupUploaderBundle(),
             new AppBundle\AppBundle(),
         );
 
