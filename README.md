@@ -10,7 +10,7 @@ echo "CREATE DATABASE db_name CHARACTER SET utf8 COLLATE utf8_general_ci;" | mys
 ### 2 Init
 ```sh
 cd /path/to/project
-git clone git@bitbucket.org:ruslan-m/ai-standard-project.git ./
+git clone git@github.com:ruslana-net/ai-standard-project.git ./
 composer install
 cp web/.htaccess.dist web/.htaccess
 ```
